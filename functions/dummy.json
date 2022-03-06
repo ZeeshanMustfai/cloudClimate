@@ -1,0 +1,24 @@
+{
+  "documents": [
+    {
+      "nameTeam": "team1",
+      "score": 5
+    },
+    {
+      "nameTeam": "team2",
+      "score": 7
+    },
+    {
+      "nameTeam": "team3",
+      "score": 3
+    },
+    {
+      "nameTeam": "team4",
+      "score": 4
+    },
+    {
+      "nameTeam": "team5",
+      "score": 10
+    }
+  ]
+}
