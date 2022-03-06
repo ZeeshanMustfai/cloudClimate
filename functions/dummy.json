@@ -19,6 +19,30 @@
     {
       "nameTeam": "team5",
       "score": 10
+    },
+    {
+      "nameTeam": "team6",
+      "score": 8
+    },
+    {
+      "nameTeam": "team7",
+      "score": 9
+    },
+    {
+      "nameTeam": "team8",
+      "score": 8
+    },
+    {
+      "nameTeam": "team9",
+      "score": 2
+    },
+    {
+      "nameTeam": "team10",
+      "score": 3
+    },
+    {
+      "nameTeam": "team11",
+      "score": 1
     }
   ]
 }
